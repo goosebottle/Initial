@@ -1,2 +1,2 @@
-Here follow instructions for building the project
+Here follow instructions for building the project:
 # Initial
